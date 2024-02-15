@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Semana Juventud Almendralejo
-subtitle: Jornadas en Hotel Acosta.
+title: Somos Juegos No Juguetes
+# subtitle: 
 excerpt_image: /assets/images/actividades/2023/somosjuegosnojuguetes/cartel.jpg
-categories: markdown
+categories: actividades
 tags: [actividades]
-top: 2
 ---
 
 # Lugar

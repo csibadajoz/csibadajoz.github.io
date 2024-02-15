@@ -3,11 +3,12 @@ layout: post
 title: Semana Juventud Almendralejo
 subtitle: Jornadas en Hotel Acosta.
 excerpt_image: /assets/images/actividades/2023/semanajuventud/cartel.jpg
-categories: markdown
+categories: actividades
 tags: [actividades]
 ---
 
-# Lugar
+Lugar
+-----
 
 Jornadas realizadas en el Hotel Acosta
 
