@@ -7,7 +7,7 @@ categories: viajes
 tags: [viajes, don benito, el jobbyt]
 ---
 
-El día 20 de enero acudimos a Don Benito. Allí, la [Asociación El Jobbyt](https://asociacioneljobbyt.jimdofree.com/) celebró sus jornadas para difundir la afición en su localidad.
+El día 20 de enero acudimos a <b>Don Benito</b>. Allí, la [Asociación El Jobbyt](https://asociacioneljobbyt.jimdofree.com/) celebró sus jornadas para difundir la afición en su localidad.
 
 Conocimos a nuevos amigos, y sirvió para afianzar lazos con ellos, de cara a futuras colaboraciones o a organizar actividades conjuntamente.
 
