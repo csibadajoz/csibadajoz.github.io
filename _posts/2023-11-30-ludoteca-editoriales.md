@@ -16,4 +16,4 @@ Durante este mes, gracias a la colaboración de varias editoriales, hemos amplia
 
 Gracias por ayudarnos!! 
 
-Enlace para la ludoteca: !(https://boardgamegeek.com/collection/user/AsociacionCSIBadajoz?rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cversion%7Ccomment&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
+Enlace para la ludoteca: [ludoteca](https://boardgamegeek.com/collection/user/AsociacionCSIBadajoz?rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cversion%7Ccomment&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
