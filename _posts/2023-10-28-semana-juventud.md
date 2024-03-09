@@ -4,7 +4,7 @@ title: Semana Juventud Almendralejo
 subtitle: Jornadas en Hotel Acosta.
 excerpt_image: /assets/images/actividades/2023/semanajuventud/cartel.jpg
 categories: actividades
-tags: [actividades, hotel acosta, semana juventud, concejalia cultura]
+tags: [actividades, hotel acosta, semana juventud, concejalia cultura, origamix]
 ---
 
 Lugar
@@ -13,11 +13,11 @@ Lugar
 Jornadas realizadas en el Hotel Acosta
 
 
-El sábado 28 de octubre celebramos en Almendralejo una jornada de juegos de mesa, abierta al público, organizado por la Asociación Cultural CSI Badajoz, en colaboración con la Concejalía de Cultura.
+El sábado 28 de octubre celebramos en Almendralejo una jornada de juegos de mesa, abierta al público, organizado por la Asociación Cultural CSI Badajoz, en colaboración con la <b>Concejalía de Cultura</b>.
 
 ![banner](/assets/images/actividades/2023/semanajuventud/cartel.jpg)
 
-Durante este año, por un empujón originado en la por la celebración de la 'Semana de la Juventud', promovido por el Ayuntamiento de Almendralejo, nos hemos reactivado y hemos puesto en marcha nuestra capacidad organizativa. Así, el sábado 28 de octubre, a las 10 de la mañana abrimos las puertas de la sala ofrecida por el Hotel Acosta para organizar la zona de préstamo.
+Durante este año, por un empujón originado en la por la celebración de la <b>'Semana de la Juventud'</b>, promovido por el Ayuntamiento de Almendralejo, nos hemos reactivado y hemos puesto en marcha nuestra capacidad organizativa. Así, el sábado 28 de octubre, a las 10 de la mañana abrimos las puertas de la sala ofrecida por el Hotel Acosta para organizar la zona de préstamo.
 
 ![banner](/assets/images/actividades/2023/semanajuventud/panoramica3.jpg)
 
@@ -25,7 +25,7 @@ Realmente el trabajo duro comenzó unas semanas antes, con la tarea de dar a con
 
 ![banner](/assets/images/actividades/2023/semanajuventud/juegos.jpg)
 
-Las puertas se abrieron al público a las 12:00; la sala contaba con unos 120 metros cuadrados en donde se disponían diez mesas y sesenta sillas. Y durante la primera hora acudieron cero personas. Almendralejo es un pueblo de influencias sureñas, y el clima durante ese fin de semana se preveía 'rarito'.
+Las puertas se abrieron al público a las 12:00; la sala contaba con unos <b>120 metros cuadrados</b> en donde se disponían diez mesas y sesenta sillas. Y durante la primera hora acudieron cero personas. Almendralejo es un pueblo de influencias sureñas, y el clima durante ese fin de semana se preveía 'rarito'.
 
 ![banner](/assets/images/actividades/2023/semanajuventud/f01.jpg)
 
@@ -57,11 +57,11 @@ Todo esto salpicado de algún que otro padre de familia o algún chaval ya algo 
 
 ![banner](/assets/images/actividades/2023/semanajuventud/f05.jpg)
 
-Un conteo pormenorizado de la afluencia de público hace que nos conste unas cien personas durante el turno de tarde. Durante el pico máximo, en el momento de más personas de forma simultánea, en más de cuatro mesas se jugaba de forma compartida, es decir, en un lado jugaba un grupo a un juego, en el lado contrario lo hacía otro grupo a otro juego. Esto es, lleno absoluto. Ahora nos toca cuidar lo sembrado.
+Un conteo pormenorizado de la afluencia de público hace que nos conste <b>unas cien personas durante el turno de tarde</b>. Durante el pico máximo, en el momento de más personas de forma simultánea, en más de cuatro mesas se jugaba de forma compartida, es decir, en un lado jugaba un grupo a un juego, en el lado contrario lo hacía otro grupo a otro juego. Esto es, lleno absoluto. Ahora nos toca cuidar lo sembrado.
 
 ![banner](/assets/images/actividades/2023/semanajuventud/f06.jpg)
 
-Para la celebración de esta actividad también se contó con la participación, inestimable, de la tienda Origamix, un establecimiento local de artículos de regalo que también dispone de una sección de juegos de mesa.
+Para la celebración de esta actividad también se contó con la participación, inestimable, de la tienda <b>Origamix</b>, un establecimiento local de artículos de regalo que también dispone de una sección de juegos de mesa.
 
 ![banner](/assets/images/actividades/2023/semanajuventud/f10.jpg)
 
