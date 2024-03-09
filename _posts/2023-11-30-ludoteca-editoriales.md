@@ -2,7 +2,7 @@
 layout: post
 title: Ludoteca y editoriales
 subtitle: Ampliando la ludoteca... gracias
-excerpt_image: /assets/images/actividades/2023/ludoteca/ludoteca1.jpg
+excerpt_image: /assets/images/actividades/2023/ludoteca/ludoteca1.png
 categories: ludoteca
 tags: [ludoteca, perroloko, falomir, bumble3ee, gdm]
 ---
