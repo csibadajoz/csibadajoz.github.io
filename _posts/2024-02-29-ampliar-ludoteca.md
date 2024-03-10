@@ -3,12 +3,11 @@ layout: post
 title: Ampliamos ludoteca
 subtitle: Nuevos juegos que entran
 excerpt_image: /assets/images/actividades/2024/ludoteca/ampliarludoteca.jpg
-categories: viajes
-tags: [viajes, don benito, el jobbyt]
+categories: actividades
+tags: [actividades, ludoteca]
 ---
 
-Tras varios meses de actividades, con la inclusión de nuevos socios, y la gesetión de cierto presupuesto, hemos decidido hacer un gasto para ampliar la ludoteca. Bien por nosotros !! Los juegos que hemos adquirido son los siguientes:
-
+Tras varios meses de actividades, con la inclusión de nuevos socios, y la gestión de cierto presupuesto, hemos decidido hacer un gasto para ampliar la ludoteca. Bien por nosotros !! Los juegos que hemos adquirido son los siguientes:
 * Aventureros al tren: Europa
 * Azul
 * Marrakech
