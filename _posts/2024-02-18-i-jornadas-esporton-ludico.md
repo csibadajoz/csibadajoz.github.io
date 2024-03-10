@@ -21,4 +21,4 @@ Durante todo el fin de semana hubo goteo de socios, y no solo socios, ya que est
 
 ![banner](/assets/images/actividades/2024/ijornadasesportonludico/iesporton3.jpg)
 
-Fue un fin de semana muy ameno y agradable, en el que pudimos disfrutar de nuestras partidas sin estar pendiente de el disfrute de las visitas.
+Fue un fin de semana muy ameno y agradable, en el que pudimos disfrutar de nuestras partidas sin estar pendiente de el disfrute de las visitas. Y hubo partidas para todos los gustos, desde partys, pasando por infantiles y fillers, hasta euros tanto de corte familair como de los duretes.
