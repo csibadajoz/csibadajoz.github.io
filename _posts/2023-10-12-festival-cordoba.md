@@ -12,3 +12,7 @@ El [Festival Internacional de Córdoba](https://2023.festivaldejuegoscordoba.es/
 ![banner](/assets/images/actividades/2023/festivalcordoba/cordobacarpa.jpg)
 
 El lugar donde se lleva a cabo es... precioso. La ciudad de Córdoba es encantadora, y el emplazamiento del Festival, en el <b>Palacio de la Merded</b>, sede de la Diputación de Córdoba es tremendamente acojedor. Si todavía no has ido, no te pierdas la edición del año que viene.
+
+![banner](/assets/images/actividades/2023/festivalcordoba/cordobagigante.jpg)
+
+Aquí vas a encontrar de todo: novedades de las editoriales, pruebas de prototipos, amplia ludoteca para préstamo, gente siempre dispuesta a jugar y a explicar juegos, asistir como público a grabaciones o emisiones de directos de cualquie plataforma de difusión on-line, concursos y torneos, contancto directo con personas de la industria, y un largo etcétera. Lo malo de esto es que el último día se acaba.
