@@ -4,7 +4,7 @@ title: Contrabando y cazarrecompensas
 subtitle: Una historia de Star Wars
 excerpt_image: /assets/images/actividades/2024/viernesnoche/swborde.jpg
 categories: jugando
-tags: [sw: el borde exterior, viernes noche]
+tags: [sw el borde exterior, viernes noche]
 ---
 
 Historias de <b>Star Wars</b> hay muchas. Y hoy tocaba vivir otra de ellas. Los protagonistas: Sergio, Frikillo, Juanma y Raúl.
