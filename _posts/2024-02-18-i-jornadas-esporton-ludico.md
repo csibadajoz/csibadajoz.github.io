@@ -17,7 +17,7 @@ Después de varias actividades públicas, en las que trabajamos para la gente qu
 
 ![banner](/assets/images/actividades/2024/ijornadasesportonludico/iesporton2.jpg)
 
-Durante todo el fin de semana hubo goteo de socios, y no solo socios, ya que estaba abierta la <i>fieseta</i> para invitados (cualquier persona que nos conociera lo estaba; familiares, amigos, otras personas que sabemos que juegan, de forma más o menos ocasional, etc..)
+Durante todo el fin de semana hubo goteo de socios, y no solo socios, ya que estaba abierta la <i>fiesta</i> para invitados (cualquier persona que nos conociera lo estaba; familiares, amigos, otras personas que sabemos que juegan, de forma más o menos ocasional, etc..)
 
 ![banner](/assets/images/actividades/2024/ijornadasesportonludico/iesporton3.jpg)
 
