@@ -4,7 +4,7 @@ title: I Jornadas Esportón Lúdico
 subtitle: Jornadas Esportón Lúdico
 excerpt_image: /assets/images/actividades/2024/ijornadasesportonludico/cartel.jpg
 categories: actividades
-tags: [actividades, cajalmendralejo, solo soci@s]
+tags: [actividades, cajalmendralejo, solo soci@s, esporton ludico]
 ---
 
 # Lugar
