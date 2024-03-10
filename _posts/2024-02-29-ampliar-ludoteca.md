@@ -6,6 +6,7 @@ excerpt_image: /assets/images/actividades/2024/ludoteca/ampliarludoteca.jpg
 categories: actividades
 tags: [actividades, ludoteca]
 ---
+Enlace para la ludoteca: [ludoteca de la Asociación](https://boardgamegeek.com/collection/user/AsociacionCSIBadajoz?rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cversion%7Ccomment&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
 
 Tras varios meses de actividades, con la inclusión de nuevos socios, y la gestión de cierto presupuesto, hemos decidido hacer un gasto para ampliar la ludoteca. Bien por nosotros !! Los juegos que hemos adquirido son los siguientes:
 * Aventureros al tren: Europa
