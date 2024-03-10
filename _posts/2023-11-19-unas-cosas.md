@@ -3,7 +3,7 @@ layout: post
 title: Unas 'cosas' por aquí
 subtitle: Partida a The Thing
 excerpt_image: /assets/images/actividades/2023/tardesdomingo/thething.jpg
-categories: jugando, viajes
+categories: jugando viajes
 tags: [jugando, viajes, the thing, badajoz]
 ---
 
