@@ -2,7 +2,7 @@
 layout: post
 title: Entradas en la ludoteca
 subtitle: Dos nuevos juegos
-excerpt_image: /assets/images/actividades/2024/ludoteca/origamix.jpg
+excerpt_image: /assets/images/actividades/2024/ludoteca/logo-origamix.jpg
 categories: ludoteca
 tags: [ludoteca, origamix]
 ---
