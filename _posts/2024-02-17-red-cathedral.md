@@ -4,10 +4,10 @@ title: Capeonato Red Cathedral
 subtitle: Torneo clasificatorio para el naciona
 excerpt_image: /assets/images/actividades/2024/redcathedral/cartel.jpg
 categories: colaboraciones
-tags: [colaboraciones, red cathedral, origamix]
+tags: [colaboraciones, red cathedral, origamix, torneos]
 ---
 
-Este día, la tienda [Origamix](https://www.facebook.com/p/Origamix-100078824403062/), dentro del programa de 'juego organizado' de la editorial <b>Devir</b>, organizó el torno clasificatorio para el nacional del juego <b>The Red Cathedral</b>. Nosotros colaboramos con el espacio físico y aquellos que hicierea falta.
+Este día, la tienda [Origamix](https://www.facebook.com/p/Origamix-100078824403062/), dentro del programa de 'juego organizado' de la editorial <b>Devir</b>, organizó el torneo clasificatorio para el nacional del juego <b>The Red Cathedral</b>. Nosotros colaboramos con el espacio físico y aquellos que hicierea falta.
 
 ![banner](/assets/images/actividades/2024/redcathedral/final.jpg
 
