@@ -3,7 +3,7 @@ layout: post
 title: Ampliamos ludoteca
 subtitle: Nuevos juegos que entran
 excerpt_image: /assets/images/actividades/2024/ludoteca/ampliarludoteca.jpg
-categories: actividades
+categories: actividades ludoteca
 tags: [actividades, ludoteca]
 ---
 Enlace para la ludoteca: [ludoteca de la Asociación](https://boardgamegeek.com/collection/user/AsociacionCSIBadajoz?rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cversion%7Ccomment&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
