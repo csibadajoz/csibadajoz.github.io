@@ -1,4 +1,4 @@
-i---
+---
 layout: post
 title: Capeonato Red Cathedral
 subtitle: Torneo clasificatorio para el naciona
