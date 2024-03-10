@@ -15,5 +15,6 @@ Conocimos a nuevos amigos, y sirvió para afianzar lazos con ellos, de cara a fu
 
 Es fántastico saber que cerca, en Extremadura, hay más gente que se esfuerza de ampliar el círculo, dando difusión a este tipo de ocio.
 
+![banner](/assets/images/actividades/2024/donbenito/csteresajornet.jpg)
 
 
