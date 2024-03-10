@@ -155,6 +155,7 @@ lang: "es"  # default lang is en
 header_pages:
   - index.html
   - about.html
+  - future.html
   - archives.html
   - categories.html
   - tags.html
