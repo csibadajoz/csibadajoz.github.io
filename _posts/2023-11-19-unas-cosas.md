@@ -4,7 +4,7 @@ title: Unas 'cosas' por aquí
 subtitle: Partida a The Thing
 excerpt_image: /assets/images/actividades/2023/tardesdomingo/thething.jpg
 categories: jugando viajes
-tags: [jugando, viajes, the thing, badajoz]
+tags: [viajes, the thing, badajoz, tarde de domingo]
 ---
 
 El señor [Wargame Reviewer](https://bellotacon.es/), amigo y socio desde hace tiempo, y por añadir datos, organizador de las <b>BellotaCon</b>, tiene costumbre muy ocasional de antojarse alguna partida a algún juego muy específico y temático. En esta ocasión nos invitó al sarao que estaba montando en su casa.
