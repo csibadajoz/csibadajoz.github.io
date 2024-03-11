@@ -1,15 +1,12 @@
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-    
+    <h2 class="post-title">{{page.title}}</h2>
     <div class="post-content e-content" itemprop="articleBody">
-      <h2 class="post-title">{{page.title}}</h2>
       {{ content }}
-      <div class="post-tags">
-        {%- for tag in page.tags -%}
-        <a class="post-tag" href="{{ '/tags.html ' | relative_url }}#{{tag}}">#{{tag}}</a>
-        {%- endfor -%}
-      </div>
     </div>
-    
+    <div class="post-tags">
+      {%- for tag in page.tags -%}
+      <a class="post-tag" href="{{ '/tags.html ' | relative_url }}#{{tag}}">#{{tag}}</a>
+      {%- endfor -%}
+    </div>
 </article>
 
