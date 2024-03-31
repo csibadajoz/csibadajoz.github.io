@@ -14,6 +14,6 @@ El primero en llegar es Raúl T. elige un <b>Tzolkin</b> porque no sabe jugarlo,
 
 Tras acabar el Tzolkin propongo jugar al <b>The King is dead</b>, juego de mayorías, con una gestión de mano muy elegante y reglas sencillas. Explicación y al lio. Era la primera partida para todos nosotros, al principio nos costó un poco hacernos a la idea de la situación en el tablero, de las luchas de poder, en como se resolverían, en como hacernos de los seguidores de la facción que puede ganar un territorio sin dejarla sin influencia en los demás territorios, la partida se la acabó llevando Mikel, invasión francesa, él tenía mas sets completos de seguidores. !Esto no puede quedar así, exigimos la revancha! Segunda partida, ya sabíamos a lo que veníamos, el trono de Gran Bretaña está en juego! Partida encarnizada, un tira y afloja constante, Raúl T. y Mikel gastaron sus cartas antes que yo, los ingleses se hacen con el trono de Gran Bretaña, Juan Carlos gana la partida. Juegazo. 
 
-![kingdead](/assets/images/actividades/2024/santalluvia/kingdead.jpg)
+![kingdead](/assets/images/actividades/2024/santalluvia/thekingisdead.jpg)
 
 Recogemos, charloteamos, las dos menos veinte de la madrugada, último trago a la cerveza, ha sido un placer, me subo a la cama, ¿las tres de la mañana? ¡Hoy era el cambio de hora!
