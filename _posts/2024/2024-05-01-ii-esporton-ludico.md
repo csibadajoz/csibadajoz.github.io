@@ -18,7 +18,7 @@ Por la mañana tenemos organizado el campeonato de <b>Carcassonne</b>, a cargo d
 | ![banner](/assets/images/actividades/2024/iijornadasesportonludico/carcassonne.jpg) | ![banner](/assets/images/actividades/2024/iijornadasesportonludico/logo-origamix.jpg) |
 
 
-Y por la tarde haremos demostraciones de las editoriales colaboradoras: Cayro, Perro Loko, Falomir y Bumble3ee.
+Y por la tarde haremos demostraciones de las editoriales colaboradoras: <b>Cayro, Perro Loko, Falomir y Bumble3ee</b>.
 
 | ![banner](/assets/images/actividades/2024/iijornadasesportonludico/cayro.png) | ![banner](/assets/images/actividades/2024/iijornadasesportonludico/logo-perroloko.png) | ![banner](/assets/images/actividades/2024/iijornadasesportonludico/logo-falomir-x2.png) | ![banner](/assets/images/actividades/2024/iijornadasesportonludico/logo-bumble3ee.png) |
 
