@@ -12,7 +12,7 @@ td, th {
 }
 </style>
 
-Enlace a la galería de fotos: [banner](https://drive.google.com/drive/folders/1lvSJTcxsLqCrEuRteRHsVwx4UWHFouIY)
+[Enlace a la galería de fotos](https://drive.google.com/drive/folders/1lvSJTcxsLqCrEuRteRHsVwx4UWHFouIY)
 
 Pues ya lo hicimos. El pasado sábado celebramos el <i>II Esportón Lúdico</i>, las jornadas de nuestra Asociación. Gracias al ayuntamiento de Almendralejo, disfrutamos de un entorno magnífico en el patio del Conventual San Antonio (el patio de la bilioteca), y demostró ser un lugar estupendo, ya que nos protegía del calor reinante en el exterior, debido a sus muros de piedra y a la sombra que proyectaban sus paredes.
 
@@ -30,7 +30,7 @@ Aunque esta vez no fue tan multitudinario con las jornadas de octubre en el Hote
 
 ![banner](/assets/images/actividades/2024/iijornadasesportonludico/panoramica1.jpg)
 
-Enlace a la galería de fotos: [banner](https://drive.google.com/drive/folders/1lvSJTcxsLqCrEuRteRHsVwx4UWHFouIY)
+[Enlace a la galería de fotos](https://drive.google.com/drive/folders/1lvSJTcxsLqCrEuRteRHsVwx4UWHFouIY)
 
 Agradecemos enormemente el apoyo que nos brindan las editoriales colaboradoras: <b>Cayro, Perro Loko, Falomir y Bumble3ee</b>.
 
