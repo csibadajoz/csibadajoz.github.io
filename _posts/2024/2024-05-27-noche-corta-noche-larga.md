@@ -2,7 +2,7 @@
 layout: post
 title: La nooche más corta más larga de juegos
 subtitle: de  mesa
-excerpt_image: /assets/images/actividades/todas/logo_nochecortanochelarga.jpg
+excerpt_image: /assets/images/todas/logo_nochecortanochelarga.jpg
 categories: divulgacion
 tags: [divulgacion, noche corta noche larga]
 ---
@@ -17,7 +17,7 @@ No nos corresponde a nosotros el invento de <b>la noche más corta más larga de
 
 En el periodo que va desde aquellos años hasta el actual 2024, hemos sido conscientes de algunas entidades que lo han realizado, principalmente por que en los primeros años, mucha gente contactaba con nosotros para falicitarnos por la idea; y esto llevaba la consiguiente aclaración de que el invento no era nuestro, que nosotros solo lo hemos importado a nuestro pueblo (Almendralejo), y que el mérito es de Jugamos Tod@s.
 
-![](/assets/images/actividades/todas/logo_nocheCordoba2024.jpg)
+![](/assets/images/todas/logo_nocheCordoba2024.jpg)
 
 Cualquiera puede hacer búsquedas en internet y verá la repercusión que 'la noche más corta' ha tenido, por que en diferentes años hay más de una docena de asociaciones por toda España que realiza este evento. Y este año nosotros seremos una de ellas. Una más.
 
