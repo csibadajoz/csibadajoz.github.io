@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La nooche más corta más larga de juegos
+title: La noche más corta más larga de juegos
 subtitle: de  mesa
 excerpt_image: /assets/images/todas/logo_nochecortanochelarga.jpg
 categories: divulgacion

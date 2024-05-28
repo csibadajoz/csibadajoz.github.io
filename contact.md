@@ -20,6 +20,6 @@ También puedes seguirnos en las redes sociales:
 * [Twitter](https://twitter.com/EsportonLudico?t=j6UFkAL3VY5N2nVukPNuMw&s=09)
 * [Instagram](https://www.instagram.com/ludicoesporton?utm_source=qr&igsh=ZnpjenNtMnR0NzQx)
 
-![Esportón Lúdico](/assets/images/logos/EsportonLudico_menor.jpg)
+![Esportón Lúdico](/assets/images/todas/logos_EsportonLudico_menor.jpg)
 
-![CSI Badajoz](/assets/images/logos/logocsi.jpg)
+![CSI Badajoz](/assets/images/todas/logo_csibadajoz.jpg)
