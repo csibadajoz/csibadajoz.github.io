@@ -11,7 +11,7 @@ Sábado noche, sin ganas de salir (ni falta que hace, al menos hoy). Incertidumb
 
 Casi todos los juegos que llevamos eran para cuatro jugadores, sin embargo <b>Caylus</b> si permitía hasta un quinto jugador, por lo que no hubo que estar pensando si jugamos a este o a aquel. 
 
-![lnmcmlj](/assets/images/todas/partida_caylus.jpg)
+![Caylus](/assets/images/todas/partida_caylus.jpg)
 
 Nos sentamos y tras un mínimo setup (¡qué maravilla los juegos de aquella época!) es de obligado cumplimiento hacer una explicación de reglas. Los detalles, después de tres años de la partida más reciente, se rellenan con una consulta al reglamento.
 
