@@ -2,7 +2,7 @@
 layout: post
 title: Torneo Catan 2024
 subtitle: Torneo clasificatorio para el nacional
-excerpt_image: /assets/images/todas/cartel_catan_2024.jpg
+excerpt_image: /assets/images/todas/cartel_catan_2024.png
 categories: colaboraciones
 tags: [colaboraciones, catan, origamix, torneos, devir, ecj]
 ---
