@@ -13,11 +13,14 @@ La idea de estas primeras convivencias es dar a conocer el juego a aquellas pers
 
 # Go, el juego y su impacto
 
-El **Go** es un juego de estrategia milenario originario de China, con más de 4,000 años de historia, que ha cautivado a jugadores de todo el mundo por su aparente simplicidad y profunda complejidad. 
+El **Go** es un juego de estrategia originario de China, con más de 4,000 años de historia y es jugado por todo el mundo.
 
-Con gran impacto en la tecnología moderna, su patrón de fichas fue una de las fuentes de inspiración para la creación de los códigos QR. 
+A pesar de su longevidad ha servido de inspiración para nuevas tecnologías
 
-Además, ha jugado un papel crucial en el desarrollo de la inteligencia artificial, destacándose en 2016 cuando **AlphaGo**, un programa de IA creado por DeepMind, derrotó a uno de los mejores jugadores del mundo, marcando un hito en la ciencia y en la evolución de la IA. La belleza del Go reside en que cada partida es única, ofreciendo un reto constante y despertando la creatividad de quienes se aventuran a jugarlo.
+- Los **Códigos QR** fueron inspiracion directa del juego
+- Marcó un hito en la **AI**, en 2016 fue la primera vez que una inteligencia artificial ganaba a uno de los grandes jugadores modernos como Lee Sedol, el software **AlphaGo** de Google(DeepMind) empezó a marcar una nueva generación de proyectos
+
+La belleza del Go reside en que cada partida es única, ofreciendo un reto constante y despertando la creatividad de quienes se aventuran a jugarlo.
 
 ![Goban](/assets/images/actividades/2024/encuentrosgo/go.board.jpeg)
 
@@ -35,9 +38,9 @@ De 18:00 a 20:00
 
 ![La Senda](/assets/images/actividades/2024/encuentrosgo/go.lasenda.png)
 
-Café Bar La Senda
-C/ Primero de Mayo 86
-Enfrente de la salida principal del IES Carolina Coronado
+    Café Bar La Senda
+    C/ Primero de Mayo 86
+    Enfrente de la salida principal del IES Carolina Coronado
 
 # ¿Precio?
 
