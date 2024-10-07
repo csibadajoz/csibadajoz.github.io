@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Juegos callejeros
+title: Juegos callejeros - Fin
 subtitle: de  mesa
 excerpt_image: /assets/images/todas/panoramica_juegos_callejeros.jpg
 categories: actividades
@@ -12,6 +12,8 @@ Se terminó. Hizimos una jornada de <b>juegos callejeros</b>, que tienen la pecu
 
 [Dejamos aquí solo un par de fotos de extraídas de la galería de imágenes de la actividad](https://drive.google.com/drive/folders/1Nt8dm-eXZsVHbl76O2oc4poN_n0uPOVx?usp=drive_link)
 
-![banner](https://drive.google.com/file/d/13rmPgsaGYmE4YJwihOwAOuDd0PoP_L-r/view?usp=sharing)
+![banner](/assets/images/todas/juegos_callejeros_1.jpg)
 
-![banner](https://drive.google.com/file/d/1dIfnY3m20YpsI1TojcO46n4KasI4jkn2/view?usp=sharing)
+![banner](/assets/images/todas/juegos_callejeros_13.jpg)
+
+
