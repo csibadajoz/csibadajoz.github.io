@@ -13,7 +13,7 @@ Durante el último trimestre del año vamos a realizar un encuentro al mes centr
 
 ![Poster de Jornadas](/assets/images/actividades/2024/encuentrosgo/encuentro_go_2024.jpg)
 
-La idea de estas primeras convivencias es dar a conocer el juego a aquellas personas que tengan interés, si ya sabes encontrarás otras peronas con las que podrás jugar y hablar.
+La idea de estas primeras convivencias es dar a conocer el juego a aquellas personas que tengan interés, si ya sabes encontrarás otras personas con las que podrás echarte unas partidas y comentar.
 
 # Go, el juego y su impacto
 
@@ -56,6 +56,7 @@ Son jornadas gratuitas, si quieres tomar algo en el bar corre de tu cuenta.
 
 <center>Asociación Extremeña de Go</center>
 ![Go Del Oeste](/assets/images/actividades/2024/encuentrosgo/asociaciongoextremadura.png){: height="150" }
+
 
 
 
