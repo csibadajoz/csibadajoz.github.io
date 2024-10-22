@@ -2,14 +2,18 @@
 layout: post
 title: Encuentros de Go
 subtitle: Zona de encuentro para jugadores de Go de Almendralejo y alrededores
-excerpt_image: /assets/images/actividades/2024/encuentrosgo/go.board.jpeg
+excerpt_image: /assets/images/actividades/2024/encuentrosgo/encuentro_go_2024.jpg
 categories: actividades
 tags: [actividades, go, almendralejo]
 ---
 
+
+
 Durante el último trimestre del año vamos a realizar un encuentro al mes centrados en el juego del **Go**
 
-La idea de estas primeras convivencias es dar a conocer el juego a aquellas personas que tengan interés, si ya sabes encontrarás otras peronas con las que podrás jugar y hablar.
+![Poster de Jornadas](/assets/images/actividades/2024/encuentrosgo/encuentro_go_2024.jpg)
+
+La idea de estas primeras convivencias es dar a conocer el juego a aquellas personas que tengan interés, si ya sabes encontrarás otras personas con las que podrás echarte unas partidas y comentar.
 
 # Go, el juego y su impacto
 
@@ -30,21 +34,29 @@ La belleza del Go reside en que cada partida es única, ofreciendo un reto const
 
 - Sábado 26 de Octubre
 - Sábado 23 de Noviembre
-- Sábado 27 de Diciembre
+- Sábado 21 de Diciembre
 
 De 18:00 a 20:00
 
 # ¿Dónde?
 
-![La Senda](/assets/images/actividades/2024/encuentrosgo/go.lasenda.png)
+![La Senda](/assets/images/actividades/2024/encuentrosgo/go.lasenda.png){: width="250" }
 
     Café Bar La Senda
     C/ Primero de Mayo 86
-    Enfrente de la salida principal del IES Carolina Coronado
 
 # ¿Precio?
 
 Son jornadas gratuitas, si quieres tomar algo en el bar corre de tu cuenta.
+
+# Organizadores
+
+<center>Csi Badajoz</center>
+![Csi Badajoz Logo](/assets/images/actividades/2024/encuentrosgo/csibadajozlogo.png){: height="150" }
+
+<center>Asociación Extremeña de Go</center>
+![Go Del Oeste](/assets/images/actividades/2024/encuentrosgo/asociaciongoextremadura.png){: height="150" }
+
 
 
 
