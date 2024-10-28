@@ -4,7 +4,7 @@ title: Encuentros de Go
 subtitle: Zona de encuentro para jugadores de Go de Almendralejo y alrededores
 excerpt_image: /assets/images/actividades/2024/encuentrosgo/encuentro_go_2024.jpg
 categories: actividades
-tags: [actividades, go, almendralejo]
+tags: [actividades, go]
 ---
 
 
