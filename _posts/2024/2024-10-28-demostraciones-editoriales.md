@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Demostraciones juegos cedidos por editoriales
-subtitle: Graacias a las editoriales que han colaborado
+subtitle: Gracias a las editoriales que han colaborado
 excerpt_image: /assets/images/todas/cartel_demos_noviembre_2024_qr.png
 categories: actividades
 tags: [actividades, demostraciones, perroloko, gdm, falomir, bumble3ee, cayro, devir]
