@@ -2,7 +2,7 @@
 layout: post
 title: Otra sala llena
 subtitle: Demostraciones juegos cedidos por editoriales
-excerpt_image: /assets/images/todas/cartel_demos_panel.jpg
+excerpt_image: /assets/images/todas/cartel_demos_panel.png
 categories: actividades
 tags: [actividades, demostraciones, perroloko, gdm, falomir, bumble3ee, cayro, devir]
 ---
