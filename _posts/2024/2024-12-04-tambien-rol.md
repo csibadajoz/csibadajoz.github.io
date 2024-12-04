@@ -14,3 +14,5 @@ En rol de mesa vamos a ver un clásico de mazmorreo con una partida de <b>Dungeo
 En rol más dinámico vamos a tener dos pases de <b>Blood on the Clocktower</b> (sangre en el campanario), y una partida tipo <i>cluedo</i> con una sesión de un clásico <b>¿Cómo organizar un asesinato?</b>, concretamente con el título <i>El último tren de París</i>
 
 Más información: [Más información](https://esportonludico.com/rol27diciembre.html)
+
+<img src="/assets/images/todas/Jornada de rol y larp Viernes 27 diciembre a partir de las 1800 ECJ Almendralejo.png">
