@@ -7,7 +7,11 @@ categories: actividades
 tags: [actividades, go]
 ---
 
+AVISO
 
+SE CANCELA LA ÚLTIMA FECHA POR MOTIVOS AJENOS A LA ORGANIZACION
+
+[Informacion de Cancelación de Última Fecha 21/12/2024](/actividades/2024/12/18/encuentros-go-iii.html)
 
 Durante el último trimestre del año vamos a realizar un encuentro al mes centrados en el juego del **Go**
 
