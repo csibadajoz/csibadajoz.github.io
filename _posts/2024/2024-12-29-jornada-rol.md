@@ -13,7 +13,7 @@ Gracias al formulario previo de inscripciones hemos visto como los participantes
 
 En total han sido cuarenta participantes en las cinco actividades que hemos ejecutado, veamos:
 
-<ul>
+
 <li>Una partida a <b>Dungeons & Dragons</b>, con efectos especiales de todo tipo...</li>
 
 ![DnD](/assets/images/todas/DnD_2.jpeg)
@@ -29,14 +29,14 @@ En total han sido cuarenta participantes en las cinco actividades que hemos ejec
 <li>Un rol en vivo de <b>Alguien debe morir</b> con Alejandro Torrado, coautor del juego, en el papel de <i>'mecenas'</i>, todo un lujo</li>
 
 ![alguien_debe_morir](/assets/images/todas/alguien_debe_morir_2.jpeg)
-</ul>
+
 
 [Dejamos aquí un enlace a la galería de fotos](https://drive.google.com/drive/folders/14HGJwro6QAJPftv9yVKWka4LXCQ4znoO?usp=sharing). Y debajo de todo esta entrada, dos <b><i>bonus track</i></b>, un par de videos para disfrutarlos.
 
 Toda una tarde, desde las 18:00 hasta las 00:00, para disfrutar de esta afición. Ya estamos preparando la siguiente...
 
 Video DnD - efectos especiales:
-<iframe width="560" height="315" src="https://youtu.be/tUnOPQVXgC0?si=ICrdZwVfFvLyOuMx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUnOPQVXgC0?si=_Rc9ABVCFE1HCrrt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Video Alguien debe morir:
-<iframe width="560" height="315" src="https://youtu.be/5b4ZZ1Jcj8U?si=8YDz1KgrYHBQsxJR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5b4ZZ1Jcj8U?si=0gOfboRv_XAz7Wz9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
