@@ -11,10 +11,10 @@ Convocatoria oficial, esta vez en el E.C.J. de Almendralejo; el motivo, totalmen
 
 Asistentes: Manu, Pablo, Sergio, Raul, Mai, Jacinto y Mikel.
 
-![banner](/assets/images/todas/2025/partida_luckynumbers.jpg)
+![banner](/assets/images/todas/2025/partida_luckynumbers.jpeg)
 
-![banner](/assets/images/todas/2025/partida_identidadsecreta.jpg)
+![banner](/assets/images/todas/2025/partida_identidadsecreta.jpeg)
 
-![banner](/assets/images/todas/2025/partida_clank.jpg)
+![banner](/assets/images/todas/2025/partida_clank.jpeg)
 
-![banner](/assets/images/todas/2025/partida_inferno.jpg)
+![banner](/assets/images/todas/2025/partida_inferno.jpeg)
