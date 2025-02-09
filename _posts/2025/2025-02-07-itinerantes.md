@@ -12,10 +12,10 @@ Los participantes de esta noche: Juan Carlos Villanueva, Sixto Ortiz, Mikel Diez
 
 Las partidas (se asjunta documento gráfico): Dune Imperium, Las Mansiones de la Locura y Tobago.
 
-![banner](/assets/images/todas/2025/partida_dune.jpg)
+![banner](/assets/images/todas/2025/partida_dune.jpeg)
 
-![banner](/assets/images/todas/2025/partida_mansioneslocura.jpg)
+![banner](/assets/images/todas/2025/partida_mansioneslocura.jpeg)
 
-![banner](/assets/images/todas/2025/partida_tobago.jpg)
+![banner](/assets/images/todas/2025/partida_tobago.jpeg)
 
 Pedimos bocatas a domicilio para cenar, y teníamos estufa para calentarnos.
