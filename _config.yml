@@ -153,7 +153,8 @@ lang: "es"  # default lang is en
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
-  - rol27diciembre.html
+  #- rol27diciembre.html
+  - iiiel.html
   - about.html
   - future.html
   - archives.html
