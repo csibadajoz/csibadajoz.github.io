@@ -153,7 +153,8 @@ lang: "es"  # default lang is en
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
-  - rol27diciembre.html
+  #- rol27diciembre.html
+  - iiiel.html
   - about.html
   - future.html
   - archives.html
@@ -195,7 +196,7 @@ excerpt:
 #   text_size: 350          # Words default size
 
 # Pagination setting
-paginate: 5
+paginate: 10
 
 # Photo previewer settings (PhotoSwipe 5)
 # the options please refer to: https://photoswipe.com/options/
