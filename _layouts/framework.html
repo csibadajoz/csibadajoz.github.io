@@ -9,6 +9,17 @@ layout: default
 
   </section>
   <section class="sidebar" style="margin-left: 15px;">
+    <!-- Enlaces Esporton -->
+    {% if site.sidebar_links %}
+      <div class="custom-sidebar-links">
+        <!-- <h3>Enlaces</h3> -->
+        <ul>
+          {% for link in site.sidebar_links %}
+            <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
     <!-- Get sidebar items -->
     {%- if page.sidebar -%}
       {%- assign sidebar = page.sidebar -%}

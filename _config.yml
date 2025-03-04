@@ -253,3 +253,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+
+sidebar_links:
+  - name: Partidas
+    url: https://raultm.github.io/esportonstats/
+  - name: Asociacion CSI Badajoz
+    url: /about/
+  

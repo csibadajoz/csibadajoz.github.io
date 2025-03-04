@@ -52,4 +52,32 @@ $selection-background-color: unquote("{{ site.selection.background_color }}");
   $selection-background-color: rgba(invert($brand-color), 0.3);
 }
 
+.custom-sidebar-links {
+  margin-bottom: 20px;
+}
+
+.custom-sidebar-links h3 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.custom-sidebar-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.custom-sidebar-links li {
+  margin-bottom: 5px;
+}
+
+.custom-sidebar-links a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.custom-sidebar-links a:hover {
+  text-decoration: underline;
+}
+
+
 @import "yat";
