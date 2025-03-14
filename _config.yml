@@ -158,7 +158,7 @@ header_pages:
   - about.html
   - future.html
   - archives.html
-  - categories.html
+  #- categories.html
   - tags.html
   - contact.md
 # - tags.html
