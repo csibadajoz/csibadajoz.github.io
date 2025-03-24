@@ -4,7 +4,7 @@ title: Gatos de arena
 subtitle: 
 excerpt_image: /assets/images/todas/2025/resumen_20250321.png
 categories: jugando
-tags: [viernes noche, isla de gatos, dune]
+tags: [viernes noche, isla de gatos, dune imperium]
 ---
 Este viernes, además de lo que ya se ha dicho, también destaca en importancia el dónde se ha hecho; pero todavía no lo vamos a desvelar. Lo haremos cuando esté todo bien adecentado.
 

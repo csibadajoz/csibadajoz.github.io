@@ -4,7 +4,7 @@ title: Tapetes nuevos
 subtitle: Estreno para los tapetes cubremesas
 excerpt_image: /assets/images/todas/resumen_20240913.png
 categories: jugando
-tags: [viernes noche, la ultima capsula, dune, brass]
+tags: [viernes noche, la ultima capsula, dune imperium, brass]
 ---
 Esta semana recibimos los tapetes nuevos, para las mesas... qué elegancia, qué textura y suavidad; así sí se puede jugar, y no lo que hemos estado haciendo hasta ahora.
 

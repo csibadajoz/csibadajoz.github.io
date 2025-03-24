@@ -4,7 +4,7 @@ title: Itinerantes
 subtitle: En otro sitio
 excerpt_image: /assets/images/todas/2025/resumen_20250207.png
 categories: jugando
-tags: [viernes noche, dune, mansiones de la locura, tobago]
+tags: [viernes noche, dune imperium, mansiones de la locura, tobago]
 ---
 Este viernes, con los coletazos del Dia de las Candelas, el lugar habitual donde jugamos no estaba disponible, por lo que tuvimos que recurrir los amigos de la <b>Fundación Ruy López</b> para que nos cedieran alguna sala. Gracias!!
 
