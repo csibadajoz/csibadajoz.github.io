@@ -157,7 +157,7 @@ header_pages:
   - iiiel.html
   - about.html
   - future.html
-  - archives.html
+  #- archives.html
   #- categories.html
   - tags.html
   - contact.md
@@ -258,7 +258,8 @@ plugins:
 sidebar_links:
   - name: Partidas
     url: https://raultm.github.io/esportonstats/
-    target: _blank
   - name: Asociacion CSI Badajoz
     url: /about.html
+  - name: Archivo
+    url: /archives.html
   
