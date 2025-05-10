@@ -2,7 +2,7 @@
 layout: post
 title: Puente de mayo
 subtitle: seguimos jugando
-excerpt_image: /assets/images/todas/2025/resumen_20250513.png
+excerpt_image: /assets/images/todas/2025/resumen_20250503.png
 categories: [jugando, colaboraciones]
 tags: [sabadete, catan, torneos, blood on the clock tower]
 ---
