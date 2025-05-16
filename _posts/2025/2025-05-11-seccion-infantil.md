@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Paridad
-subtitle: o Igualdad
-excerpt_image: /assets/images/todas/2025/resumen_20250509.png
+title: Sección infantil
+subtitle: 
+excerpt_image: /assets/images/todas/2025/resumen_20250510.png
 categories: jugando
 tags: [sabadete, block and key, mixto con huevo, trio, dominion, animal sobre animal, danza del huevo]
 ---
