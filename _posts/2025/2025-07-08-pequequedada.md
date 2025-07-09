@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Desfase temporal DOS
-subtitle: tres semanas sin partidas
+title: Peque-quedadas
+subtitle: Quedadas para peques
 excerpt_image: /assets/images/todas/2025/peques_2025_07_06.jpg
 categories: jugando
 tags: [pequequedada]
