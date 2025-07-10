@@ -2,7 +2,7 @@
 layout: post
 title: Hasta las 6:30 de la madrugada
 subtitle: lnmcmlj
-excerpt_image: /assets/images/todas/lnmcmldj2025almendralejo_p.jpg
+excerpt_image: /assets/images/todas/2025/lnmcmldj2025almendralejo_p.jpg
 categories: actividades
 tags: [actividades, noche corta noche larga, ecj, toma 6]
 ---
