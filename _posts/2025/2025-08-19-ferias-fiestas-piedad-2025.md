@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ferias y Fiests de La Piedad 2025
+title: Ferias y Fiestas de La Piedad 2025
 subtitle: La feria del pueblo
 excerpt_image: /assets/images/todas/2025/logo_feriasyfiestaspiedad2025.jpg
 categories: jugando
