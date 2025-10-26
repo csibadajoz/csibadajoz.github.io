@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Se acaba el verano
-subtitle: vendrá otro
-excerpt_image: /assets/images/todas/2025/resumen202510xx.jpg
+title: Esos jueguecitos
+subtitle: Fillers
+excerpt_image: /assets/images/todas/2025/resumen202510xx.png
 categories: jugando
 tags: [viernes noche, azul, cordoba, genial, grandes llanuras, jungo, mind up, root, trio]
 ---
