@@ -2,7 +2,7 @@
 layout: post
 title: Llueve sobre mojado
 subtitle: más partidas
-excerpt_image: /assets/images/todas/2026/resumen_2026_enero.png
+excerpt_image: /assets/images/todas/2026/resumen_2026_enero_mosaico.png
 categories: jugando
 tags: [sabadete, tarde de domingo, entre semana, viernes noche, anno 1800, honey buzz, the king is dead, kingdom of solomon, kreta, red cathedral]
 ---
