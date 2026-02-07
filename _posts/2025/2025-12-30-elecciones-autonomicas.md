@@ -11,7 +11,7 @@ En diciembre de 2025, el día 21, se celebraron elecciones autonómicas en Extre
 
 Y no es porque no se haya jugado. Pero se ha jugado de forma más 'doméstica'; es decir, la gente quedaba en casa de alguien formando grupo más reducido. Y de esto no hay constancia gráfica, solo algunos testimonios.
 
-Una vez pasado el día de celebración de la democracia, nos pusimos manos a la obra para poder regresar a nuestra querida sede: volver a desplazar esatanterías y cajas de juegos, mesas y sillas, y tener todo de nuevo disponible. Como las elecciones se produjeeron el 21 de diciembre, esto nos dio pocos días para ejecutar esta tarea. Pero lo hicimos. Y nos dío tiempo para, antes de fin de año, apurar tiempo y jugar algo más.
+Una vez pasado el día de celebración de la democracia, nos pusimos manos a la obra para poder regresar a nuestra querida sede: volver a desplazar esatanterías y cajas de juegos, mesas y sillas, y tener todo de nuevo disponible. Como las elecciones se produjeron el 21 de diciembre, esto nos dio pocos días para ejecutar esta tarea. Pero lo hicimos. Y nos dío tiempo para, antes de fin de año, apurar tiempo y jugar algo más.
 
 <b>Keltis</b>
 
