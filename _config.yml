@@ -154,7 +154,8 @@ lang: "es"  # default lang is en
 header_pages:
   - index.html
   #- rol27diciembre.html
-  - iiiel.html
+  #- iiiel.html
+  - i_encuentro_pintores_miniaturas.html
   - about.html
   - future.html
   #- archives.html
