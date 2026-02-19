@@ -3,7 +3,7 @@ layout: post
 title: Kill Team - Iniciación
 subtitle: Jornada de iniciación a Kill Team (i)
 excerpt_image: /assets/images/todas/2026/killteam/killteam_febrero_2026.jpeg
-categories: jugando
+categories: jugando, actividades
 tags: [tarde de domingo, sesion matinal, kill team]
 ---
 ![killteam](/assets/images/todas/2026/killteam/killteam_febrero_2026.jpeg)
