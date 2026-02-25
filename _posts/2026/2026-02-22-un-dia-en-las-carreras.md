@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Kill Team - Iniciación
-subtitle: Jornada de iniciación a Kill Team (i)
+title: Un día en las carreras
+subtitle: Aristocracia y hermanos Marx
 excerpt_image: /assets/images/todas/2026/un_dia_en_las_carreras_i.jpg
 categories: jugando, actividades
 tags: [sesion matinal, un dia en las carreras, codigo secreto]
