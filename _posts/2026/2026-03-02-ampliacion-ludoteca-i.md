@@ -17,6 +17,6 @@ Y a continuación juegos adquiridos por la propia Asociación Cultural CSI Badaj
 
 ![ludoteca](/assets/images/todas/2026/ludoteca_i_2026.jpg)
 
-![ludoteca](/assets/images/todas/2026/ludoteca_iii_2026.jpg)
+![ludoteca](/assets/images/todas/2026/ludoteca_3_2026.jpg)
 
-A disfrutar de ellos !!
+[A disfrutatr de todo ellos - Ludoteca de la Asociación](https://boardgamegeek.com/collection/user/AsociacionCSIBadajoz?rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cversion%7Ccomment&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
