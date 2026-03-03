@@ -3,7 +3,7 @@ layout: post
 title: Un día en las carreras
 subtitle: Aristocracia y hermanos Marx
 excerpt_image: /assets/images/todas/2026/un_dia_en_las_carreras_i.jpg
-categories: jugando, actividades
+categories: jugando actividades
 tags: [sesion matinal, un dia en las carreras, codigo secreto]
 ---
 ![undiaenlascarreras](/assets/images/todas/2026/un_dia_en_las_carreras_i.jpg)
