@@ -155,7 +155,8 @@ header_pages:
   - index.html
   #- rol27diciembre.html
   #- iiiel.html
-  - i_encuentro_pintores_miniaturas.html
+  #- i_encuentro_pintores_miniaturas.html
+  - ivel.html
   - about.html
   - future.html
   #- archives.html
