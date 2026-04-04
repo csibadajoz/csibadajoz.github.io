@@ -2,12 +2,13 @@
 layout: post
 title: Viernes de dolores
 subtitle: 
-excerpt_image: /assets/images/todas/2026/resumen_202600404.png
+excerpt_image: /assets/images/todas/2026/resumen_20260404.png
 categories: jugando
 tags: [viernes noche, ark nova, after us, exploradores, genial, adios amigos, nacidos de la bruma]
 ---
 Viernes de dolores. Esquivando procesiones. Estuvimos en <b>La Base</b>: Bruno, David, Pepelu, Eduardo, Adrián, Mikel y Raúl L.
 Las partidas:
+
 <b>Ark Nova</b>
 
 ![arknova](/assets/images/todas/2026/partida_arknova_20260404.jpg)
