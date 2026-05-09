@@ -1,7 +1,7 @@
 layout: post
 title: Ampliación Ludoteca 2026 (ii)
 subtitle: Nuevos juegos
-excerpt_image: /assets/images/todas/2026/ludoteca_4_2026.png
+excerpt_image: /assets/images/todas/2026/ludoteca_4_2026.jpg
 categories: ludoteca
 tags: [ludoteca]
 ---
