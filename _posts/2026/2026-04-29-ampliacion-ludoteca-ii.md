@@ -1,3 +1,4 @@
+---
 layout: post
 title: Ampliación Ludoteca 2026 (ii)
 subtitle: Nuevos juegos
