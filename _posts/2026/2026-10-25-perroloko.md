@@ -4,7 +4,7 @@ title: perroloko
 subtitle: nvisita
 excerpt_image: /assets/images/todas/2026/perrolokologo-150x150.png
 categories: ludoteca
-tags: [ludoteca, satori]
+tags: [ludoteca, satori, perroloko]
 ---
 Hace unos días recibimos la visita de Chuz, de la editorial <b>Perro Loko</b> para conocer las instalaciones de nuestra <b>BASE</b> y pasar un rato con nosotros. Ciertamente no pilla muy lejos (casi dos horas de viaje, que hizo por otros motivos personales).
 
