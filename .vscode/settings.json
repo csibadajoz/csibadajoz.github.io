@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "posts",
-        "sidebar-links"
+        "sidebar-links",
+        "eventos"
     ]
 }

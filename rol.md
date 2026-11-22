@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Jornadas de Rol CSI Badajoz
+title: Jornadas de Rol 2026
 permalink: /rol
 ---
 
@@ -15,6 +15,8 @@ La jornada está **abierta a todo el mundo a partir de los 16 años**. Habrá **
 Para participar en las partidas organizadas se habilitarán formularios de inscripción, que publicaremos en esta misma página. Los horarios todavía están por decidir; actualizaremos la información cuando estén confirmados.
 
 ## Juegos
+
+Estos son los juegos que hemos seleccionado hasta el momento. Estamos abiertos a incorporar otros juegos, así que si tienes alguna propuesta, ¡cuéntanosla!
 
 - *Blood on the Clocktower*
 - *Dungeons & Dragons*
