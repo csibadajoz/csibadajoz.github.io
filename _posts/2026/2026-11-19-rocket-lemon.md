@@ -2,7 +2,7 @@
 layout: post
 title: Rocket Lemon
 subtitle: ampliando
-excerpt_image: /assets/images/todas/2026/rocket-lemon-games-logo-150x150.png
+excerpt_image: /assets/images/todas/2026/rocket-lemon-games-logo.png
 categories: ludoteca
 tags: [ludoteca, rocket lemon]
 ---
